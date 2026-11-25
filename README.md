@@ -66,7 +66,7 @@
 
 Agentra provides trust infrastructure for autonomous AI agents, enabling identity verification, reputation scoring, and transaction authorization without custodial control. The platform supports MCP native integration, MPP and x402 protocols, offering a non‑custodial, tiered trust system for agents to transact safely on base mainnet. It includes features like bidirectional trust, mandate engine, and agent discovery, targeting the emerging agent economy.
 
-**Areas:** Identity Verification · Reputation Scoring · Transaction Authorization · Non‑Custodial Wallet · Agent Infrastructure · API
+**Areas:** Identity Verification · Reputation Scoring · Transaction Authorization · Non-Custodial Wallet · Agent Infrastructure
 
 ## Agentra on APIs.io
 
@@ -88,7 +88,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentrapay Ai Agentic Access](https://apis.io/agentic-access/agentrapay-ai/agentrapay-ai-agentic-access/)
+- [Agentra Agentic Access](https://apis.io/agentic-access/agentrapay-ai/agentrapay-ai-agentic-access/)
 
 #### JSON Schema (6)
 
@@ -111,7 +111,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentrapay Ai Domain Security](https://apis.io/security/agentrapay-ai/agentrapay-ai-domain-security/)
+- [Agentra Domain Security](https://apis.io/security/agentrapay-ai/agentrapay-ai-domain-security/)
 
 ## Where to find this API
 
@@ -124,23 +124,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 35.6** — thin · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 29.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
-| Contract quality | 51.4 |
-| Contract governance | 79.1 |
+| Discoverability | 69.6 |
+| Contract quality | 54.5 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 16.0 |
-| Access clarity | 21.1 |
+| Developer ergonomics | 11.3 |
+| Access clarity | 29.8 |
 
-**Agent readiness 30.5** — agent-ready
+**Agent readiness 23.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
@@ -149,7 +149,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | partial |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -160,8 +160,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 17.0** — Payments
+**Regulatory alignment 11.6** — Payments
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentrapay-ai/](https://apis.io/providers/agentrapay-ai/).
 
